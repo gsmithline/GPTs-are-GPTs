@@ -1,4 +1,4 @@
-name: .conda
+name: gpts_are_gpts
 channels:
   - defaults
 prefix: /Users/gabesmithline/miniconda3/envs/.conda
